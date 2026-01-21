@@ -736,7 +736,7 @@ export default function DocsPage() {
                               </a>
                           </li>
                           <li className="menu-item">
-                              <a href="/api/downloader/tiktokmp4downloader?tiktokvid_url=https://vt.tiktok.com/ZS5pcbS54/" target="_blank" className="menu-link">
+                              <a href="/api/downloader/tiktokdownloader?tiktokvid_url=https://vt.tiktok.com/ZSajD96F7/" target="_blank" className="menu-link">
                                   <div data-i18n="Download TikTok MP4">Download TikTok MP4</div>
                                   <div className="badge bg-label-info fs-tiny rounded-pill ms-auto">MP4/MP3</div>
                               </a>
